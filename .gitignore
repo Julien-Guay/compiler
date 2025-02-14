@@ -1,0 +1,6 @@
+# Lex / yacc / ply
+parser.out
+parsetab.py
+
+# Python
+__pycache__/
